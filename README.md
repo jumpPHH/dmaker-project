@@ -1,2 +1,2 @@
 # dmaker-project
-This project focuses on Spring's core technologies, including writing and refactoring test code.
+When distributing this project, it identifies the target source and automatically creates it.
